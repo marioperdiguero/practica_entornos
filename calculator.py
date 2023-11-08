@@ -10,7 +10,13 @@ def multiply(a, b):
 def divide(a, b):
     pass
 
-def menu():
-    pass
+def menu_choice():
+    funciones = ["sumar", "restar", "multiplicar", "dividir"]
 
-menu()
+    for i in range(len(funciones)):
+        print(str(i + 1) + "-", funciones[i])
+    
+    return int(input(" Elige opción: "))
+
+
+menu_choice()
