@@ -7,8 +7,8 @@ Este repositorio se utiliza para aprender git para la asignatura de Entornos de 
 ## Autores
 
 - [@marioperdiguero](https://www.github.com/marioperdiguero)
-- [@davidperez](https://www.github.com/dperez)
-- [@jorgearias](https://www.github.com/jarias)
+- [@davidperez](https://www.github.com/david-perez-2357)
+- [@jorgearias](https://www.github.com/jorgeariasmartin)
 ## Atribuciones
 
  - [Gitmoji Guide](https://github.com/carloscuesta/gitmoji)
