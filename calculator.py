@@ -14,7 +14,7 @@ def multiply(a, b):
     """"
         Función que retorna la multiplicación de dos números
     """
-    pass
+    return a * b
 
 def divide(a, b):
     """"
