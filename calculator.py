@@ -8,7 +8,7 @@ def multiply(a, b):
     pass
 
 def divide(a, b):
-    pass
+    return a / b
 
 def menu_choice():
     funciones = ["sumar", "restar", "multiplicar", "dividir"]
